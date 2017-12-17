@@ -1,0 +1,6 @@
+C:\Users\Wolfgang\Desktop\VisitorPattern\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Wolfgang\Desktop\VisitorPattern\Visitor\bin\Debug\Visitor.exe
+C:\Users\Wolfgang\Desktop\VisitorPattern\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Wolfgang\Desktop\VisitorPattern\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Wolfgang\Desktop\VisitorPattern\Visitor\obj\Debug\Visitor.exe
+C:\Users\Wolfgang\Desktop\VisitorPattern\Visitor\obj\Debug\Visitor.pdb
